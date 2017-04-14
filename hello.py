@@ -1,6 +1,4 @@
 print("Hello World")
 print("Nice to meet you")
 print("I am hojin.")
-print("Modify for Git fetch test")
-print("Github Fetch Test line")
-print("Git pull test")
+print("Git pull test2")
