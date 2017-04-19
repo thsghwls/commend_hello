@@ -1,6 +1,9 @@
-print("Hello World")
-print("Nice to meet you")
-print("I am hojin.")
-print("Modify for Git fetch test")
-print("Github Fetch Test line")
-print("Git pull test")
+print("Start Python!")
+a = 4
+b = 8
+a + b
+c = "Hojin"
+
+while a > 0 :
+    print(c)
+    a = a-1
