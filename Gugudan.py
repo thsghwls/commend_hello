@@ -5,5 +5,7 @@ count = 1
 
 print("%d단" %dan)
 while count < 10:
-    print("%d * %d = %d"%dan %count %count*dan) 
-    count += 1
+    print("%d * " %dan)
+    print("%d = " %count)
+    print("%d" %count*dan) 
+    count =count + 1
